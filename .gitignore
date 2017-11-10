@@ -1,0 +1,11 @@
+*.log
+*.iml
+.idea/
+target/
+CATALINA_HOME_IS_UNDEFINED/
+*#
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+out/
